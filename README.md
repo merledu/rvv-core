@@ -29,6 +29,15 @@ Vaquita is currently integrated with the [NucleusRV](https://github.com/merledu/
 
 ---
 
+## Diagram
+### System Diagram of vaquita
+<img src="./docs/images/vector Co Processor vaquita system diagram.png">
+
+### System Diagram of Vaquita integrated with NucleusRV-Core
+<img src="./docs/images/vaquita co processoe with NucleusRV core.png">
+
+---
+
 ## Usage  
 
 ### Prerequisites  
